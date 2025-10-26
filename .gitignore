@@ -1,0 +1,14 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers d'editeur
+.vscode/
+.idea/
+
+# Autres fichiers a ignorer
+.DS_Store
